@@ -1,7 +1,8 @@
 # wxsync
 
-![py35][py35]
 [py35]: https://img.shields.io/badge/python-3.5-red.svg
+
+![py35][py35]
 
 Wechat message synchronized - 微信多群消息同步
 
