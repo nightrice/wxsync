@@ -6,7 +6,7 @@
 
 Wechat message synchronized - 微信多群消息同步
 
-原作者忘记时谁了,在网上搜了下发现了这些现成的代码,自己小改了一下.
+原作者忘记是[张宏伦 - 基于itchat实现微信群消息同步机器人](https://zhuanlan.zhihu.com/p/25445025)
 
 ## 安装
 
