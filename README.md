@@ -6,7 +6,9 @@
 
 Wechat message synchronized - 微信多群消息同步
 
-原作者忘记是[张宏伦 - 基于itchat实现微信群消息同步机器人](https://zhuanlan.zhihu.com/p/25445025)
+原作者是[张宏伦 - 基于itchat实现微信群消息同步机器人](https://zhuanlan.zhihu.com/p/25445025)
+
+谢谢他的代码
 
 ## 安装
 
