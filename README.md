@@ -23,3 +23,13 @@ python -m pip install itchat
 1. 添加作为机器人的小号到两个需要同步消息的群。
 2. 修改sync_bot.py中的group_name为群名关键字。
 3. python sync_bot.py 运行并扫码登录微信。
+
+# 更短的实现方式 - wxpy
+
+原作者：[牛小强 - 10行代码实现微信群消息同步（wxpy）](https://zhuanlan.zhihu.com/p/33604536)
+
+## 使用方法
+```
+pythom -m pip install wxpy
+python sync.py
+```
