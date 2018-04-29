@@ -24,7 +24,8 @@ python -m pip install itchat
 2. 修改sync_bot.py中的group_name为群名关键字。
 3. python sync_bot.py 运行并扫码登录微信。
 
-# 更短的实现方式 - wxpy
+
+# 更简洁的实现方式 - wxpy
 
 原作者：[牛小强 - 10行代码实现微信群消息同步（wxpy）](https://zhuanlan.zhihu.com/p/33604536)
 
@@ -33,3 +34,5 @@ python -m pip install itchat
 pythom -m pip install wxpy
 python sync.py
 ```
+
+如果你用的非桌面版服务器运行该脚本，请修改sync.py中的console_qr为True。
