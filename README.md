@@ -1,9 +1,5 @@
 # wxsync
 
-[py35]: https://img.shields.io/badge/python-3.5-red.svg
-
-![py35][py35]
-
 Wechat message synchronized - 微信多群消息同步
 
 原作者是[张宏伦 - 基于itchat实现微信群消息同步机器人](https://zhuanlan.zhihu.com/p/25445025)
@@ -12,7 +8,7 @@ Wechat message synchronized - 微信多群消息同步
 ## 安装
 
 ```
-git clone https://github.com/Lyttoni/wxsync.git
+git clone git@github.com:nightrice/wxsync.git
 cd wxsync
 python -m pip install itchat
 ```
